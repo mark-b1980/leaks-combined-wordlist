@@ -2,6 +2,7 @@ BreachCompilation/*
 
 *.txt
 *.tmp
+*.sorted
 *.gz
 
 test.py
