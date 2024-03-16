@@ -6,7 +6,7 @@ I combined all wordlists from `hashes.org` which I had downloaded in the past to
 
 I created a few scripts to automate a rough cleanup of the wordlists and the merging. As latest addition to the wordlist I downloaded the famous Breach-Compilation (`magnet:?xt=urn:btih:7FFBCD8CEE06ABA2CE6561688CF68CE2ADDCA0A3&dn=BreachCompilation`) and parsed the data to extract the passwords. 
 
-Actually the wordlist contain **823,222,875 passwords**.
+Actually the wordlist contain **790,216,259 passwords**.
 
 ## Usage of the scripts to extend the wordlist
 
