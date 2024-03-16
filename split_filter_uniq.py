@@ -69,7 +69,7 @@ for c in chars:
 #################################################################################################
 print()
 print(f"COMPRESSING leaks_combined.txt ...")
-os.system("rm wordlist/*")
+os.system("rm wordlist/*.z*")
 os.system("zip -s 1G wordlist/leaks_combined.zip leaks_combined.txt")
 print(f"PROCESSING DONE IN: {int((time.time() - starttime) / 60)} MIN.!")
 print()
